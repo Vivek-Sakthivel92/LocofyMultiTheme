@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
       <Head>
-        <title>locofy-react-nextjs-project</title>
+        <title>Locofy Multi Theme</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
